@@ -1,0 +1,28 @@
+
+
+
+# Key Things Noticed about GCP
+
+1. GCP follows "Organiztion -> Projects -> Folders -> Resoureces" flow for resources allocations and their billing assignments. 
+2. billing is done per project instead of regions, unlike AWS and likewise cloud vendors
+3. Console View is somewhat more usual and easy to follow[in my opinion, somewhat immature]. 
+4. Services are somewhat seems to lacking functionality yet having very easiest and reliable usage. specially Big Data Analytics such as DataProc seems to less competent with AWS provided counterpart 'EMR'
+
+5.Cloudshell is easiest as compared to AWS. but will take plenty of time when not used freuently(usually 3-4 days)
+6. $300(INR 25,013) credits are privided just after acc opening. 
+
+7.GCP provided quistarts and guides are very handy and easy to follow unlike AWS, who have complex learning materials
+8. GCP Jumpstarts solutions can be leveraged to take solutions overview that can be build on GCP. but the they are very limited in count, so you'll not get plenty insights out of that.
+
+
+
+
+
+
+
+
+
+
+
+
+..........WILL KEEP ADDING. STAY TUNED.
