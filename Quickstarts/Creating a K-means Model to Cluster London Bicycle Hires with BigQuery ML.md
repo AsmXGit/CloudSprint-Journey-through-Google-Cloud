@@ -111,3 +111,6 @@ To help you visualize the process, I’ve taken screenshots at each step. These 
 ---
 
 By following these steps, you can leverage BigQuery ML to create k-means models for clustering your data, enabling better decision-making through data-driven insights. Stay tuned for more tutorials on advanced data analytics and machine learning with Google Cloud!
+
+
+Check out my blog for more information: [My Blog][(https://cdp-ops.blogspot.com/2024/06/create-k-means-model-to-cluster-london.html)
